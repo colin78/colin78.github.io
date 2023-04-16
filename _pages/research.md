@@ -15,7 +15,7 @@ My primary research interest is to develop and apply machine learning and optimi
 3. Razonable R, **Pawlowski C**, et. al. <a href="https://pubmed.ncbi.nlm.nih.gov/34485873/">Casirivimab-Imdevimab treatment is associated with reduced rates of hospitalization among high-risk patients with mild to moderate coronavirus disease-19.</a> EClinicalMedicine, 2021. 
 4. Ganesh R, **Pawlowski C**, et. al. <a href="https://pubmed.ncbi.nlm.nih.gov/34411003/">Intravenous bamlanivimab use associates with reduced hospitalization in high-risk patients with mild to moderate COVID-19.</a> J Clin Invest., 2021.
 5.	Donadio G, Choudhary M, Lindemer E, **Pawlowski C**, Soundararajan V. <a href="https://pubmed.ncbi.nlm.nih.gov/34579210/">Counties with Lower Insurance Coverage and Housing Problems Are Associated with Both Slower Vaccine Rollout and Higher COVID-19 Incidence.</a> Vaccines, 2021.
-6.	**Pawlowski C**, et. al. <a href="https://www.cell.com/med/fulltext/S2666-6340(21)00238-5">FDA-authorized COVID-19 vaccines are effective per real-world evidence synthesized across a multi-state health system. Med, 2021. 
+6.	**Pawlowski C**, et. al. <a href="https://www.cell.com/med/fulltext/S2666-6340(21)00238-5">FDA-authorized COVID-19 vaccines are effective per real-world evidence synthesized across a multi-state health system.</a> Med, 2021. 
 7.	Venkatakrishnan A, **Pawlowski C**, et. al. <a href="https://www.nature.com/articles/s41746-021-00484-7">Mapping each pre-existing condition’s association to short-term and long-term COVID-19 complications.</a> NPJ Dig. Med., 2021. 
 8.	**Pawlowski C**, et. al. <a href="https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(22)00080-1/fulltext">Cerebral Venous Sinus Thrombosis is not Significantly Linked to COVID-19 Vaccines or Non-COVID Vaccines in a Large Multi-State Health System.</a> Journal of Stroke and Cerebrovascular Diseases, 2021.
 9.	**Pawlowski C**, et. al. <a href="https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00054-7/fulltext">Enoxaparin is associated with lower rates of mortality than unfractionated Heparin in hospitalized COVID-19 patients.</a> EClinicalMedicine, 2021.
@@ -30,8 +30,9 @@ My primary research interest is to develop and apply machine learning and optimi
 ## Working papers
 1. Bertsimas D, **Pawlowski C**. "Tensor Completion with Noisy Side Information." *To appear in Machine Learning, 2023.*
 2. Silvert E, Hester L, Ramudu E, **Pawlowski C**, et. al. "Identifying signs and symptoms of AL amyloidosis in electronic health records using natural language processing, diagnosis codes, and manually abstracted registry data." *Submitted to American Journal of Hematology.*
-2. Bandi H, **Pawlowski C**, et. al. "An AI-ECG based algorithm to predict pacemaker need post TAVR surgery." *In preparation.*
-3. Sobiesk M, **Pawlowski C**, et. al. "Economic effectiveness of an AI-ECG algorithm
+3. Ip W, **Pawlowski C**, et. al. "Augmented curation of disease diagnoses and medications for patients with hepatocellular carcinoma." *Abstract to appear in 2023 ASCO Annual Meeting Proceedings.*
+4. Bandi H, **Pawlowski C**, et. al. "An AI-ECG based algorithm to predict pacemaker need post TAVR surgery." *In preparation.*
+5. Sobiesk M, **Pawlowski C**, et. al. "Economic effectiveness of an AI-ECG algorithm
 to detect low ejection fraction." *In preparation.*
 {:.small}
 
