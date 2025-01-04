@@ -6,8 +6,8 @@ main:
     url: "/"
   - title: "Research"
     url: /research/
-  - title: "Fun Projects"
-    url: /fun_projects/
+  # - title: "Fun Projects"
+  #   url: /fun_projects/
   - title: "CV"
     url: assets/files/Pawlowski_resume_September_2024.pdf
   # - title: "Sample Posts"
