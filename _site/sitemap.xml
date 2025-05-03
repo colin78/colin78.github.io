@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/fun_projects/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
@@ -41,6 +44,10 @@
 <url>
 <loc>http://localhost:4000/assets/files/Pawlowski_resume_May_2023.pdf</loc>
 <lastmod>2023-05-09T21:22:35-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/files/Pawlowski_resume_September_2024.pdf</loc>
+<lastmod>2024-09-22T14:01:22-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/files/RobustClassification.pdf</loc>

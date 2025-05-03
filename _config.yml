@@ -106,9 +106,9 @@ analytics:
 author:
   name             : *name
   avatar           : "/assets/images/standing_2_icon.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Director & Head of Data Sciences at nference"
+  bio              : "Director of Data Science at Anumana"
   location         : "Boston, MA, USA"
-  email            : "colin@nference.net"
+  email            : "colin@anumana.ai"
   linkedin         : "colin-pawlowski"
   github           : "colin78"
   links:
